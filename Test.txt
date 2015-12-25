@@ -1,0 +1,29 @@
+// Run this program by 
+// 1. Opening the windows command prompt
+// 2. Navigating to this folder
+// 3. using the command line:
+// 		zero-x.exe Test.txt
+
+//Declare variables
+INT a
+STRING ab
+
+//Print strings, newlines and integers
+Print "Hello World"
+NewLine
+print -24
+NewLine
+//Take input
+Print "Enter a number"
+Input a
+//Calculate expressions
+a=2*4-6*(2+3)+16/3-a
+print a
+NewLine
+Print "Enter something"
+NewLine
+Input ab
+ab= "You entered: " + ab
+NewLine
+
+print ab

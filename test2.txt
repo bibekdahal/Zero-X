@@ -1,0 +1,10 @@
+int abc
+
+print "enter some number: "
+input abc
+
+abc = 20*abc
+
+newline
+print "20 times abc is: "
+print abc
